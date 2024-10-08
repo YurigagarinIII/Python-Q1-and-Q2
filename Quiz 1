@@ -1,0 +1,10 @@
+#quiz 1
+GroupMates = ["Ruth Ann Banez Gaygay-ed", "Yuri De Real Gagarin II", "Aumalyn Sagulo Cubas"]
+Age = ["20", "20", "20"]
+WeeklyAllowance = ["500", "1000", "1000"]
+TeamName = "View"
+print(TeamName)
+print("Member 1- " + GroupMates[0], "Age- " + Age[0], "Weekly Allowance- " +WeeklyAllowance[0]) 
+print("Member 2- " + GroupMates[1], "Age- " + Age[1], "Weekly Allowance- " +WeeklyAllowance[1])
+print("Member 3- " + GroupMates[2], "Age- " + Age[2], "Weekly Allowance- " +WeeklyAllowance[2])
+print(len(GroupMates[0]), len(GroupMates[1]), len(GroupMates[2]))
